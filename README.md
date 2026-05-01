@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Nejuma
 
-<!--
-**NejumaBenziya/NejumaBenziya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer  
+🎓 BSc Computer Science  
+🚀 Building real-world web applications  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- MongoDB
+- Express.js
+- React.js
+- Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛒 E-commerce Web Application  
+  - Built using MongoDB, Express.js, React & Node.js (MERN Stack)  
+  - Features: Product browsing, cart & wishlist management, secure user authentication, order processing, seller dashboard, admin panel,       RESTful API integration  
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/yourname
