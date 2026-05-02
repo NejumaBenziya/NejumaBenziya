@@ -15,4 +15,4 @@
   - Features: Product browsing, cart & wishlist management, secure user authentication, order processing, seller dashboard, admin panel,       RESTful API integration  
 
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/in/yourname
+- LinkedIn: www.linkedin.com/in/nejuma-benziya-c
